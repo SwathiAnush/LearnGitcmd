@@ -13,7 +13,7 @@ ModuleNotFoundError: No module named 'unittrst'
 	    
 SyntaxError: unindent does not match any outer indentation level
 >>> if __name__=='__main__':
-	unittest.main()
+	unittest.main().floor()
 
 
 ----------------------------------------------------------------------
