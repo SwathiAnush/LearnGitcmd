@@ -10,10 +10,10 @@ ModuleNotFoundError: No module named 'unittrst'
 	def mul_string(self):
 		self.assertEqual('Anu'*2,'AnuAnuAnuAnu')
     if __name__=='__main__':
-	    
+print("hello")	    
 SyntaxError: unindent does not match any outer indentation level
 >>> if __name__=='__main__':
-	unittest.main()
+	unittest.main().floor().help()
 
 
 ----------------------------------------------------------------------
